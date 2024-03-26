@@ -68,8 +68,8 @@ public class ChargePointRequestDto {
 `DispatcherServlet`에서 시작하여 실행흐름을 따라가며 역직렬이 일어나는 시점을 찾아보자.
 
 
-![img_1.png](../assets/images/2024-03-26/img_1.png)
-
+![img_1.png](../assets/images/2024-03-26/img_1.png) 
+-
 위의 사진은 지나온 실행흐름의 순서이다. 
 
 ![img.png](../assets/images/2024-03-26/img.png)
