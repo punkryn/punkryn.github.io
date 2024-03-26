@@ -45,6 +45,12 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+### live server
+
+```console
+$ bundle exec jekyll server --port 3011
+```
+
 ## License
 
 This work is published under [MIT][mit] License.
