@@ -76,7 +76,7 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
-
+  'https://raw.githubusercontent.com/punkryn/punkryn.github.io/main/assets/images/2024-04-09%2016.06.58%20-%20punkryn.webp'
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
