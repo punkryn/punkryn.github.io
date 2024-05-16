@@ -76,7 +76,7 @@ img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
 #avatar: 'https://private-user-images.githubusercontent.com/22855979/320754712-27bf5b7f-a5a1-47e9-a282-7de1a40335fa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI2NDcyNTksIm5iZiI6MTcxMjY0Njk1OSwicGF0aCI6Ii8yMjg1NTk3OS8zMjA3NTQ3MTItMjdiZjViN2YtYTVhMS00N2U5LWEyODItN2RlMWE0MDMzNWZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA5VDA3MTU1OVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc2ZTBkZjQ1OTg1NzFkYWY4NWM5NzUyYzVmNDA5NzA2NDk2ZTdlM2QwODE5YTAxNWFkYjZiOGI0OTUzZGVmNWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.DetiVXi6oyR0UN43tmhv-puu_ytr5m5PbEzDzOtoyOc'
-avatar: "https://github.com/punkryn/punkryn.github.io/blob/main/assets/images/2024-04-09%2016.06.58%20-%20punkryn.webp"
+avatar: "/assets/avatar.webp"
 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
